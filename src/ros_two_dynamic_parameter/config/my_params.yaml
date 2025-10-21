@@ -1,0 +1,5 @@
+my_dynamic_node:
+  ros__parameters:
+    my_int_param: 100
+    my_double_param: 2.71
+    my_string_param: "world"

@@ -1,0 +1,5 @@
+my_lifecycle_node:
+  ros__parameters:
+    publish_topic: "/print_log"
+    subscribe_topic: "/cmd_vel"
+
